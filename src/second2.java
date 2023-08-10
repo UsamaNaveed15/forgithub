@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class second2 {
+public class second2
+{
+    public  static  void main(String[] args)
+    {
+        System.out.println ("Second2");
+    }
+
 }
